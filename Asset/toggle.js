@@ -1,5 +1,5 @@
-var abc = '<img src="header-rossi2020.jpg" width="100%">';
-var xyz = '<img src="vale 46.jpg"  width="100%">';
+var abc = '<img  class="carousel" src="/Asset/img/header-rossi2020.jpg">';
+var xyz = '<img  class="carousel" src="/Asset/img/vale 46.jpg">';
 // document.getElementById('foo').innerHTML = abc;
 function clickMe() {
     if (document.getElementById('foo').innerHTML == abc) {
